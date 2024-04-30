@@ -1,10 +1,12 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project - *Hobby hub*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jerome Jackson**
+
+Netlify link: ** **
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **80** hours spent in total
 
 ## Required Features
 
